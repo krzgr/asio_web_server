@@ -1,0 +1,7 @@
+bin/*
+build/*
+.vs/
+CMakeSettings.json
+.vscode/
+!build/.gitkeep
+!bin/.gitkeep
